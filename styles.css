@@ -1,0 +1,58 @@
+* {box-sizing: border-box}
+
+
+/* Vertical Bar */
+    /* Style the tab */
+    .tab {
+      float: left;
+      background-color: white;
+      width: 140px;
+      height: auto;
+      margin: auto;
+    }
+
+    .topictab{
+      background-color: #6f8d0b;
+      text-align: left;
+      width: 140px;
+      height: auto;
+      padding: 10px;
+    }
+
+  
+  a{
+    color:white;
+  }
+  /* unvisited link */
+  a:link {
+    color: white;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: white;
+  }
+
+  .subheader{
+      margin-top: 13px;
+      text-align: left;
+  }
+
+  .paragraph{
+      font-size:110%;
+  }
+
+  .text {
+    color: white;
+  }
+
+  .bg {
+    background-color: #6f8d0b;
+  }
+
+  .citation{
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+  }
+
+
